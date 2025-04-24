@@ -1,0 +1,10 @@
+{
+  "name": "nacos-config",
+  "version": "1.4.17",
+  "dependencies": [
+    "curl",
+    "libevent",
+    "nlohmann-json",
+    "yaml-cpp"
+  ]
+}

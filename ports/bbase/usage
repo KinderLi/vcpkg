@@ -1,0 +1,4 @@
+The package bbase provides CMake targets:
+
+    find_package(bbase CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE bbase::bcommon bbase::bcommon)

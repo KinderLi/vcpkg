@@ -1,0 +1,51 @@
+{
+  "name": "bbase",
+  "version": "1.2.8",
+  "dependencies": [
+    "bblog",
+    "boost-algorithm",
+    "boost-asio",
+    "boost-bind",
+    "boost-multiprecision",
+    "breakpad",
+    {
+      "name": "curl",
+      "features": [
+        "openssl"
+      ]
+    },
+    "dtssdk",
+    "etcd-cpp-apiv3",
+    "fmt",
+    "folly",
+    "fswatch",
+    "gmp",
+    "grpc",
+    "libbacktrace",
+    "libevent",
+    "lz4",
+    "mpfr",
+    "nacos-sdk-cppv2",
+    "nlohmann-json",
+    "openssl",
+    {
+      "name": "opentelemetry-cpp",
+      "features": [
+        "jaeger"
+      ]
+    },
+    {
+      "name": "prometheus-cpp",
+      "features": [
+        "pull"
+      ]
+    },
+    "rapidjson",
+    "snappy",
+    "thrift",
+    "workflow",
+    "yaml-cpp",
+    "zlib",
+    "zstd"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "disruptor-cpp",
+  "version-string": "v1.0.0.3",
+  "description": "Disruptor-cpp is a fully functional C++ port of the LMAX disruptor. Implements all the features available in java Disruptor v3.3.7.",
+  "homepage": "https://github.com/Abc-Arbitrage/Disruptor-cpp.git"
+}
